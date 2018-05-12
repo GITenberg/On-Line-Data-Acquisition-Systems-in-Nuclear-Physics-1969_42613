@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '41774'
     url: http://www.gutenberg.org/2009/agents/41774
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42613#On-Line-Data-Acquisition-Systems-in-Nuclear-Physics-1969
 gutenberg_issued: '2013-04-29'
 gutenberg_type: Text
 identifiers:
