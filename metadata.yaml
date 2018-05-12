@@ -1,0 +1,27 @@
+_repo: On-Line-Data-Acquisition-Systems-in-Nuclear-Physics-1969_42613
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42613-h/images/cover.jpg
+creator:
+  author:
+    agent_name: National Research Council (U.S.). Ad Hoc Panel on On-line Computers
+      in Nuclear Research
+    gutenberg_agent_id: '41774'
+    url: http://www.gutenberg.org/2009/agents/41774
+description: ''
+gutenberg_issued: '2013-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42613'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Online data processing'
+- !lcsh 'Nuclear physics -- Information services'
+- !lcc 'QC'
+- !lcsh 'Nuclear physics -- Computer programs'
+title: On-Line Data-Acquisition Systems in Nuclear Physics, 1969
+url: http://www.gutenberg.org/ebooks/42613
